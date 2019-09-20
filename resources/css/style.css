@@ -147,8 +147,8 @@ input[type=submit]{
     font-weight: 300;
     text-decoration: none;
     border-radius: 200px;
-    transition: background-color: 0.2s, border 0.2s, color 0.2s;
-    
+    transition: background-color 0.2s, border 0.2s, color 0.2s;
+  
 }
 
 /*.btn:hover,
@@ -344,7 +344,7 @@ header {
     width: 55px;
     text-align:center;
     padding:5px;
-    float:left;
+    float: left;
     font-size:150%;
     margin-right:25px;
     
